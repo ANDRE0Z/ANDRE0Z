@@ -30,20 +30,15 @@
  ![React.js](https://img.shields.io/badge/react.js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%111111)&ensp;
  ![NodeJS](https://img.shields.io/badge/node.js-49a249?style=for-the-badge&logo=node.js&logoColor=white)&ensp;
  ![Next.js]( https://img.shields.io/badge/next.js-%2320232a.svg?style=for-the-badge&logo=next.js&logoColor=%ff7f1c)
+   
  ![Git](https://img.shields.io/badge/GIT-b54e00?style=for-the-badge&logo=git&logoColor=white)&ensp;
  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&ensp;
- 
-
  ![MySQL](https://img.shields.io/badge/MySQL-15406b?style=for-the-badge&logo=mysql&logoColor=white)&ensp;
- 
  ![typescript]( https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=4566f7)&ensp;
 
- 
- 
   ![discord](https://img.shields.io/badge/discord-000000?style=for-the-badge&logo=discord&logoColor=5c95ff)&ensp;
   ![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=ffffff)&ensp;
-  ![notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=ffffff)&ensp;
- 
+  ![notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=ffffff)&ensp
   ![jest](https://img.shields.io/badge/jest-000000?style=for-the-badge&logo=jest&logoColor=f78307)&ensp;
  
 
