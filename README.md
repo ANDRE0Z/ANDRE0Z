@@ -38,7 +38,7 @@
 
   ![discord](https://img.shields.io/badge/discord-000000?style=for-the-badge&logo=discord&logoColor=5c95ff)&ensp;
   ![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=ffffff)&ensp;
-  ![notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=ffffff)&ensp
+  ![notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=ffffff)&ensp;
   ![jest](https://img.shields.io/badge/jest-000000?style=for-the-badge&logo=jest&logoColor=f78307)&ensp;
  
 
